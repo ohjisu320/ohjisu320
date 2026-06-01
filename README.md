@@ -2,8 +2,9 @@
   사용 방법
   1. GitHub에서 본인 아이디와 똑같은 이름의 저장소(repository)를 만드세요. (예: 아이디가 jisu320 이면 저장소 이름도 jisu320)
   2. 그 저장소 안에 이 README.md 파일을 올리면 프로필 메인에 자동으로 표시됩니다.
-  3. 아래 코드에서 YOUR_GITHUB_ID 를 전부 본인 깃허브 아이디로 바꿔주세요. (Ctrl+H 일괄 변경 추천)
-  4. 링크(velog, 블로그 등)와 이메일도 본인 것으로 교체하세요.
+  3. 이메일/블로그 링크를 본인 것으로 교체하세요.
+  ※ 통계 카드처럼 외부 서버에 의존하는 위젯은 자주 깨져서 모두 제거했습니다.
+     이 README는 GitHub 자체 + shields.io 뱃지만 사용하므로 깨지지 않습니다.
 -->
 
 <div align="center">
@@ -16,7 +17,9 @@
   <em>"전달하는 것만큼, 만드는 것도 중요하다."</em>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=5B8DEF&center=true&vCenter=true&width=560&lines=Frontend+%26+Full-Stack+Developer;React+Native+%7C+React+%7C+Vue;Spring+Boot+%7C+Django+%7C+FastAPI;%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%8B%A4%EC%8B%9C+%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="typing" />
+**`Frontend & Full-Stack Developer`**
+
+`React Native` · `React` · `Vue` · `Spring Boot` · `Django` · `FastAPI`
 
 </div>
 
@@ -87,22 +90,23 @@ Frontend / Mobile / Full-Stack
 | **AiTime** | 자폐 스펙트럼 선별 AI 웹 서비스 | 프론트엔드 · `React` `TypeScript` `LiveKit` | 🏆 우수상 (8팀 중 2위) |
 | **numberWon** | 해외 송금 최저가 경로 추천 서비스 | 웹 풀스택 · `Django` `Vue.js` | 🏆 우수상 (10팀 중 1위) |
 | **RareField** | 희귀질환 정보 공유 플랫폼 | 데이터+풀스택 · `FastAPI` `Spring` | 🏆 최우수상 |
-| **WannaBe** | 테니스 자세 교정 모바일 앱 | 풀스택 · `React Native` `Expo` `Spring Boot` `PostgreSQL` | — |
+| **WannaBe** | REST API 백엔드 | 백엔드 · `Spring Boot` `JPA` | — |
+| **Tennis Coach App** | 테니스 자세 교정 모바일 앱 | 풀스택 · `React Native` `Expo` `Spring Boot` `PostgreSQL` | — |
 
 > 🔧 대표 트러블슈팅 — AI 서버 응답을 기다리느라 멈추던 음량 게이지를, 사용자가 레이턴시를 체감하는 지점이 게이지라는 판단 하에 `Web Audio API` 기반 클라이언트 처리로 분리해 약 1초의 체감 지연을 제거했습니다.
 
 ---
 
-## 📊 GitHub Stats
+## 💡 How I Work
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_ID&theme=tokyonight&hide_border=true" alt="streak" />
+| 원칙 | 의미 |
+| :---: | :--- |
+| 🔍 **문제 정의 우선** | 기술을 고르기 전에, 사용자가 답답함을 느끼는 지점부터 정의합니다. |
+| 🧩 **상태가 곧 화면** | 화면은 상태의 결과물 — 흐름을 먼저 설계하고 UI를 그립니다. |
+| 🔁 **완성을 의심** | "돌아간다"와 "운영에서 안전하다"는 다릅니다. 다시 열어봅니다. |
+| 🤝 **목적을 함께 그린다** | 직군 간 갈등은 번역이 아니라, 서비스 목적을 같이 그릴 때 풀립니다. |
 
 </div>
 
@@ -116,11 +120,5 @@ Frontend / Mobile / Full-Stack
 <!-- 블로그/벨로그가 있다면 아래 주석을 풀고 링크를 넣으세요
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@YOUR_ID)
 -->
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square&color=5B8DEF" alt="profile views" />
 
 </div>
