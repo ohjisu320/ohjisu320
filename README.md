@@ -17,7 +17,7 @@
   <em>"전달하는 것만큼, 만드는 것도 중요하다."</em>
 </p>
 
-**`Frontend & Full-Stack Developer`**
+**`Full-Stack Developer`**
 
 `React Native` · `React` · `Vue` · `Spring Boot` · `Django` · `FastAPI`
 
@@ -90,7 +90,6 @@ Frontend / Mobile / Full-Stack
 | **AiTime** | 자폐 스펙트럼 선별 AI 웹 서비스 | 프론트엔드 · `React` `TypeScript` `LiveKit` | 🏆 우수상 (8팀 중 2위) |
 | **numberWon** | 해외 송금 최저가 경로 추천 서비스 | 웹 풀스택 · `Django` `Vue.js` | 🏆 우수상 (10팀 중 1위) |
 | **RareField** | 희귀질환 정보 공유 플랫폼 | 데이터+풀스택 · `FastAPI` `Spring` | 🏆 최우수상 |
-| **WannaBe** | REST API 백엔드 | 백엔드 · `Spring Boot` `JPA` | — |
 | **Tennis Coach App** | 테니스 자세 교정 모바일 앱 | 풀스택 · `React Native` `Expo` `Spring Boot` `PostgreSQL` | — |
 
 > 🔧 대표 트러블슈팅 — AI 서버 응답을 기다리느라 멈추던 음량 게이지를, 사용자가 레이턴시를 체감하는 지점이 게이지라는 판단 하에 `Web Audio API` 기반 클라이언트 처리로 분리해 약 1초의 체감 지연을 제거했습니다.
