@@ -1,25 +1,12 @@
-<!--
-  사용 방법
-  1. GitHub에서 본인 아이디와 똑같은 이름의 저장소(repository)를 만드세요. (예: 아이디가 jisu320 이면 저장소 이름도 jisu320)
-  2. 그 저장소 안에 이 README.md 파일을 올리면 프로필 메인에 자동으로 표시됩니다.
-  3. 이메일/블로그 링크를 본인 것으로 교체하세요.
-  ※ 통계 카드처럼 외부 서버에 의존하는 위젯은 자주 깨져서 모두 제거했습니다.
-     이 README는 GitHub 자체 + shields.io 뱃지만 사용하므로 깨지지 않습니다.
--->
-
 <div align="center">
 
 # 안녕하세요, 오지수입니다 👋
-
 ### 데이터를 읽던 마케터에서, 직접 화면을 만드는 개발자로
 
-<p>
-  <em>"전달하는 것만큼, 만드는 것도 중요하다."</em>
-</p>
+<p><em>전달하는 일도 해봤지만, 결국 더 오래 남는 건 만든 것이었습니다.</em></p>
 
 **`Full-Stack Developer`**
-
-`React Native` · `React` · `Vue` · `Spring Boot` · `Django` · `FastAPI`
+`Spring Boot` `Django` `FastAPI` `React Native` `React` `Vue`
 
 </div>
 
@@ -27,14 +14,13 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎯 **마케팅 도메인을 경험한 개발자** — 사용자가 실제로 어디서 막히는지를 이해하는 감각을 가지고 화면을 설계합니다.
-- 🧩 **풀스택 시야** — 프론트엔드부터 백엔드, DB 설계까지 서비스 전체 흐름을 다뤄봤습니다.
-- 🔍 **문제 정의 우선** — 기술 선택보다 *사용자가 답답함을 느끼는 지점*을 먼저 정의합니다.
-- 🧪 **완성에 대한 의심** — "돌아간다"와 "운영 환경에서 안전하다"는 다르다고 믿습니다.
-- 🎾 10년 넘게 친 테니스 — 반복과 자기교정으로 실력을 쌓는 방식이 코드를 다루는 태도가 되었습니다.
+- 💻 마케팅 → 개발 전환, 프론트엔드/백엔드/DB 전체 경험
+- 🎯 사용자가 막히는 지점부터 정의하고 시작하는 편
+- 🎾 테니스 10년+
 
 ```text
-삼성청년SW·AI아카데미(SSAFY) 14기  ·  Software Engineer
+삼성청년SW·AI아카데미(SSAFY) 14기 · Software Engineer
+서울디지털인재개발원 빅데이터 서비스 엔지니어 양성과정 수료
 Frontend / Mobile / Full-Stack
 ```
 
@@ -87,27 +73,13 @@ Frontend / Mobile / Full-Stack
 
 | 프로젝트 | 한 줄 소개 | 역할 · 스택 | 성과 |
 | --- | --- | --- | --- |
+| **BATANG** | LLM 활용 건축 설계 웹 플랫폼 | 웹 풀스택 · `Spring` `React` `TypeScript` | 🏆 우수상 (9팀 중 3위) |
 | **AiTime** | 자폐 스펙트럼 선별 AI 웹 서비스 | 프론트엔드 · `React` `TypeScript` `LiveKit` | 🏆 우수상 (8팀 중 2위) |
 | **numberWon** | 해외 송금 최저가 경로 추천 서비스 | 웹 풀스택 · `Django` `Vue.js` | 🏆 우수상 (10팀 중 1위) |
 | **RareField** | 희귀질환 정보 공유 플랫폼 | 데이터+풀스택 · `FastAPI` `Spring` | 🏆 최우수상 |
-| **Tennis Coach App** | 테니스 자세 교정 모바일 앱 | 풀스택 · `React Native` `Expo` `Spring Boot` `PostgreSQL` | — |
+| **Wannabe** | 테니스 자세 교정 모바일 앱 | 풀스택 · `React Native` `Expo` `Spring Boot` `PostgreSQL` | — |
 
-> 🔧 대표 트러블슈팅 — AI 서버 응답을 기다리느라 멈추던 음량 게이지를, 사용자가 레이턴시를 체감하는 지점이 게이지라는 판단 하에 `Web Audio API` 기반 클라이언트 처리로 분리해 약 1초의 체감 지연을 제거했습니다.
-
----
-
-## 💡 How I Work
-
-<div align="center">
-
-| 원칙 | 의미 |
-| :---: | :--- |
-| 🔍 **문제 정의 우선** | 기술을 고르기 전에, 사용자가 답답함을 느끼는 지점부터 정의합니다. |
-| 🧩 **상태가 곧 화면** | 화면은 상태의 결과물 — 흐름을 먼저 설계하고 UI를 그립니다. |
-| 🔁 **완성을 의심** | "돌아간다"와 "운영에서 안전하다"는 다릅니다. 다시 열어봅니다. |
-| 🤝 **목적을 함께 그린다** | 직군 간 갈등은 번역이 아니라, 서비스 목적을 같이 그릴 때 풀립니다. |
-
-</div>
+> 🔧 AI 응답을 기다리는 동안 음량 게이지가 멈춰 있던 문제를 `Web Audio API` 기반 클라이언트 처리로 분리해 해결. 체감 지연 약 1초 단축.
 
 ---
 
@@ -116,8 +88,5 @@ Frontend / Mobile / Full-Stack
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ohjisu320@gmail.com)
-<!-- 블로그/벨로그가 있다면 아래 주석을 풀고 링크를 넣으세요
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@YOUR_ID)
--->
 
 </div>
