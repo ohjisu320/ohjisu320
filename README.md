@@ -19,6 +19,7 @@
 - 🎾 테니스 10년+
 
 ```text
+신한커리어넥스트 1기(실무형 금융 AI 에이전트 서비스 개발과정)  · AI Software Engineer
 삼성청년SW·AI아카데미(SSAFY) 14기 · Software Engineer
 서울디지털인재개발원 빅데이터 서비스 엔지니어 양성과정 수료
 Frontend / Mobile / Full-Stack
