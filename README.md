@@ -1,93 +1,173 @@
 <div align="center">
 
-# 안녕하세요, 오지수입니다 👋
-### 데이터를 읽던 마케터에서, 직접 화면을 만드는 개발자로
+# 오지수
 
-<p><em>전달하는 일도 해봤지만, 결국 더 오래 남는 건 만든 것이었습니다.</em></p>
+**Frontend · Backend · Mobile**
 
-**`Full-Stack Developer`**
-`Spring Boot` `Django` `FastAPI` `React Native` `React` `Vue`
+`Spring Boot` `React` `React Native` `Django` `Vue` `TypeScript` `Python`
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+## About
 
-- 💻 마케팅 → 개발 전환, 프론트엔드/백엔드/DB 전체 경험
-- 🎯 사용자가 막히는 지점부터 정의하고 시작하는 편
-- 🎾 테니스 10년+
+미디어커뮤니케이션을 전공하고 디지털 마케팅 업무를 경험한 뒤 개발로 전향했습니다.
 
-```text
-신한커리어넥스트 1기(실무형 금융 AI 에이전트 서비스 개발과정)  · AI Software Engineer
-삼성청년SW·AI아카데미(SSAFY) 14기 · Software Engineer
-서울디지털인재개발원 빅데이터 서비스 엔지니어 양성과정 수료
-Frontend / Mobile / Full-Stack
-```
+사용자 행동 데이터를 분석하는 것에서 시작해,  
+지금은 화면부터 서버, 데이터베이스까지 직접 구현하고 있습니다.
 
----
+특정 영역에만 머무르기보다 **사용자의 요청이 화면에서 서버를 거쳐 실제 결과로 돌아오는 전체 흐름**을 이해하는 개발을 지향합니다.
 
-## 🛠️ Tech Stack
+최근에는 Spring Boot 기반 백엔드와 React·React Native 기반 클라이언트 개발을 중심으로,  
+AI 모델과 서비스를 연결하는 프로젝트를 진행해왔습니다.
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Database & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-
-**Realtime & Media**
-
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-1E1E1E?style=flat-square&logo=livekit&logoColor=white)
-![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-FF6F00?style=flat-square&logo=javascript&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD-005BAC?style=flat-square&logo=databricks&logoColor=white)
+- 신한커리어넥스트 1기 · 금융 AI 에이전트 서비스 개발 과정
+- 삼성청년SW·AI아카데미(SSAFY) 14기
+- 서울디지털인재개발원 · 빅데이터 서비스 엔지니어 양성과정
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-| 프로젝트 | 한 줄 소개 | 역할 · 스택 | 성과 |
-| --- | --- | --- | --- |
-| **BATANG** | LLM 활용 건축 설계 웹 플랫폼 | 웹 풀스택 · `Spring` `React` `TypeScript` | 🏆 우수상 (9팀 중 3위) |
-| **AiTime** | 자폐 스펙트럼 선별 AI 웹 서비스 | 프론트엔드 · `React` `TypeScript` `LiveKit` | 🏆 우수상 (8팀 중 2위) |
-| **numberWon** | 해외 송금 최저가 경로 추천 서비스 | 웹 풀스택 · `Django` `Vue.js` | 🏆 우수상 (10팀 중 1위) |
-| **RareField** | 희귀질환 정보 공유 플랫폼 | 데이터+풀스택 · `FastAPI` `Spring` | 🏆 최우수상 |
-| **Wannabe** | 테니스 자세 교정 모바일 앱 | 풀스택 · `React Native` `Expo` `Spring Boot` `PostgreSQL` | — |
+### Languages
 
-> 🔧 AI 응답을 기다리는 동안 음량 게이지가 멈춰 있던 문제를 `Web Audio API` 기반 클라이언트 처리로 분리해 해결. 체감 지연 약 1초 단축.
+`Java` `Python` `TypeScript` `JavaScript` `SQL`
+
+### Frontend / Mobile
+
+`React` `React Native` `Expo` `Vue.js` `Pinia`
+
+### Backend
+
+`Spring Boot` `Django` `Django REST Framework` `FastAPI`
+
+### Database / Storage
+
+`PostgreSQL` `Redis` `MinIO` `MongoDB`
+
+### Realtime / Media
+
+`WebRTC` `LiveKit` `Web Audio API`
+
+### Tools
+
+`Git` `GitHub` `Swagger` `Docker`
 
 ---
 
-## 📫 Contact
+## Projects
 
-<div align="center">
+### BATANG
+**생성형 AI 기반 건축 도면 협업 플랫폼**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ohjisu320@gmail.com)
+`Spring Boot` `React` `TypeScript` `Redis`
 
-</div>
+7명이 함께 개발한 프로젝트에서 인증·권한 구조와 시스템 간 연동을 담당했습니다.
+
+- 프론트엔드·백엔드·AI 간 데이터 흐름 및 API 명세 설계
+- 인증 코드 → 검증 토큰 → JWT로 이어지는 단계별 인증 구조 설계
+- 자동 저장 중 발생한 상태 불일치 문제를 버전 비교 기반 후속 저장 구조로 개선
+- AI 도면 수정 이후 편집 이력과 Undo/Redo가 동작하지 않던 문제를 FE-BE-AI 이벤트 흐름까지 추적해 해결
+
+**Result — 9팀 중 3위, 우수상**
+
+---
+
+### AiTime
+**유아 자폐 스펙트럼 고위험군 선별 AI 웹 서비스**
+
+`React` `TypeScript` `WebRTC` `LiveKit` `Web Audio API`
+
+보호자 화면과 실시간 검사 환경을 중심으로 프론트엔드를 담당했습니다.
+
+- WebRTC 기반 실시간 검사 화면 및 촬영 흐름 구현
+- LiveKit을 이용한 실시간 영상 통신 연동
+- AI 서버 응답을 기다리던 음량 게이지를 Web Audio API 기반 클라이언트 처리로 분리
+- 약 1초가량 발생하던 체감 지연 제거
+- 의료진·접수처·보호자의 역할과 검사 상태에 따른 화면 흐름 설계
+- 소아정신과 전문의와 언어치료사 인터뷰를 바탕으로 검사 조건 구체화
+
+**Result — 8팀 중 2위, 우수상**
+
+---
+
+### NumberWON
+**해외송금 최적 경로 추천 서비스**
+
+`Django` `Django REST Framework` `Vue.js` `Pinia`
+
+2인 풀스택 프로젝트로, 사용자 기능과 API 설계부터 환율 비교 결과 화면까지 구현했습니다.
+
+- 회원 인증·권한 및 커뮤니티·마이페이지 REST API 구현
+- Swagger 기반 API 문서 자동화
+- 18개 은행·23개국의 환율 및 송금 수수료 비교 결과 UI 구현
+- 약 2,000줄 규모의 컴포넌트를 상태와 기능 단위로 분리해 유지보수 구조 개선
+
+**Result — 10팀 중 1위, 최우수상**
+
+---
+
+### WannaBe
+**AI 기반 테니스 자세 교정 모바일 서비스**
+
+`Spring Boot` `React Native` `Expo` `PostgreSQL` `MinIO`
+
+서비스를 직접 기획하고 백엔드 개발을 중심으로 참여했습니다.
+
+- 40분 이상 대용량 영상 업로드를 위한 분할 전송·재조합 구조 구현
+- 업로드 진행률 표시 및 실패 요청 자동 재시도 처리
+- 실패한 업로드의 잔여 파일이 스토리지에 남는 문제를 발견하고 정리 로직 추가
+- 정상 완료와 실패 취소가 충돌하는 엣지케이스를 재검토해 업로드 파이프라인 안정화
+- 테니스 경험을 바탕으로 AI 분석 범위를 서브 동작으로 구체화하고 측정 기준 정의
+
+---
+
+### RareField
+**희귀질환 정보 공유 플랫폼**
+
+`Python` `FastAPI` `MongoDB` `pandas`
+
+수집한 희귀질환 데이터를 서비스로 연결하는 데이터·백엔드 개발을 담당했습니다.
+
+- 비정형 데이터 수집 및 정제
+- MongoDB 기반 데이터 적재 구조 설계
+- FastAPI 기반 데이터 제공 파이프라인 구현
+- Python에 익숙하지 않은 팀원의 웹 스크래핑 개발 지원
+
+**Result — 팀 최우수상**
+
+---
+
+## Experience
+
+### Digital Marketing → Software Development
+
+디지털 마케팅팀에서 Google Analytics와 사용자 행동 데이터를 분석하며  
+이탈이 발생하는 구간을 찾는 업무를 경험했습니다.
+
+데이터로 문제를 발견하는 것에서 그치지 않고  
+문제가 발생한 화면과 시스템을 직접 바꾸고 싶어 개발을 시작했습니다.
+
+이 경험 덕분에 기능 구현 자체뿐 아니라  
+**사용자가 어디에서 막히는지, 왜 이 기능이 필요한지**를 함께 고민하며 개발하는 편입니다.
+
+---
+
+## Education
+
+**신한커리어넥스트 1기**  
+금융 AI 에이전트 서비스 개발 과정
+
+**삼성청년SW·AI아카데미(SSAFY) 14기**  
+Software Engineering
+
+**서울디지털인재개발원**  
+빅데이터 서비스 엔지니어 양성과정
+
+---
+
+## Contact
+
+**Email**  
+ohjisu320@gmail.com
