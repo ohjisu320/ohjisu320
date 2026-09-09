@@ -2,7 +2,7 @@
 
 # 오지수
 
-**Frontend · Backend · Mobile**
+**Frontend · Backend · Mobile · AI Service**
 
 `Spring Boot` `React` `React Native` `Django` `Vue` `TypeScript` `Python`
 
@@ -128,7 +128,7 @@ AI 모델과 서비스를 연결하는 프로젝트를 진행해왔습니다.
 
 `Python` `FastAPI` `MongoDB` `pandas`
 
-수집한 희귀질환 데이터를 서비스로 연결하는 데이터·백엔드 개발을 담당했습니다.
+희귀질환 데이터를 수집·정제하고, API와 화면을 구현해 서비스로 연결했습니다.
 
 - 비정형 데이터 수집 및 정제
 - MongoDB 기반 데이터 적재 구조 설계
